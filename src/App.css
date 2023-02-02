@@ -1,0 +1,10 @@
+main {
+  text-align: center;
+}
+
+.myTables {
+  display: flex;
+  align: center;
+  flex-wrap: wrap;
+  margin: auto;
+}
